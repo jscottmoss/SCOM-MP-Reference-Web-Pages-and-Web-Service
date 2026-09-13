@@ -1,0 +1,169 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+ <head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=2N_sDSC0" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=o9P2E1FK" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://systemcenter.wiki/cgi-sys/suspendedpage.cgi","20241205102327","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1733394207");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Аккаунт заблокирован</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<meta name="format-detection" content="telephone=no"/>
+	 <style type="text/css">
+		 @import url('https://web.archive.org/web/20241205102327cs_/https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+		/* html,
+		 body {
+			 height: 100%;
+		 }*/
+		 body {
+		   /*  display: flex;
+			 align-items: center;
+			 justify-content: center;*/
+			 font-family:"Rubik";
+			 font-size: 1em;
+			 background-image: url(https://web.archive.org/web/20241205102327im_/https://coopertino.ru/coopertino/img/promo-bg.png);
+			 background-color: #ffffff;
+			 /*margin-top: -5%;*/
+			 margin:0
+		 }
+		 .container {width:1170px;margin:0 auto}
+		.logo img  {
+			 height: 150px;
+			 width: 150px;
+			/* margin-bottom: 100px;*/
+			 display: block;
+			 margin-left: auto;
+			 margin-right: auto;
+		 }
+		 h1 {
+			 font-size: 7.5em;
+			 margin: 15px 0px;
+			 font-weight:bold;
+		 }
+		 h2 {
+			 font-weight:bold;
+		 }
+		 a.button {
+			 font-family:"Rubik";
+			 font-weight: 700;
+			 color: white;
+			 text-decoration: none;
+			 padding: .8em 1em calc(.8em + 3px);
+			 border-radius: 3px;
+			 background: rgb(84,199,129);
+			 box-shadow: 0 -3px rgb(53,167,110) inset;
+			 transition: 0.2s;
+			 display:inline-block;vertical-align:top;
+		} 
+		a.button:hover { background: rgb(53, 167, 110); }
+		a.button:active {
+			 background: rgb(33,147,90);
+			 box-shadow: 0 3px rgb(33,147,90) inset;
+		}
+		.footer {background:#1f1f1f;color:#fff;padding:20px 0 0;margin-top:50px}
+		.footer a {color:#959595;text-decoration:none}
+		.page-footer__navigation ul {margin:0;padding:0}
+		.page-footer__navigation li {
+			position: relative;
+			display: inline-block;
+			vertical-align: top;
+			padding:0 10px 0 25px;
+			width: 24%;box-sizing:border-box;margin:10px 0
+		}
+		.page-footer__navigation li::before {
+			content: "";
+			position: absolute;
+			top: 8px;
+			left: 0;
+			width: 12px;
+			height: 1px;
+			background-color: #474747;
+		}
+		.page-footer__navigation a {position:relative;font-size:14px}
+		.page-footer__navigation a::after {
+			content: "";
+			position: absolute;
+			bottom:0;
+			left: 0;
+			right: 0;
+			width: 100%;
+			height: 1px;
+			background-color: #959595;
+		}
+		.page-footer__navigation a:hover:after{background:transparent}
+		.copyright {background:#161616;padding:15px 0;border-top:1px solid #2d2d2d;color:#8c8c8c;margin:15px 0 0}
+		.img {float:right;margin:0 0 25px 25px;max-width:700px}
+		.img img {max-width:100%}
+		@media screen and (max-width:768px) {
+			 body {
+				display:block;
+				height: 100%;
+			 }
+		   /* .container {
+				margin-top:50px;
+				margin-bottom:50px;
+				margin-left:20px;
+				margin-right:20px;
+			}*/
+			div {max-width:100%}
+			.container {padding:0 15px;box-sizing:border-box}
+			.page-footer__navigation li {width:49%}
+			.img {display:none}
+		 }
+
+	 </style>
+ </head>
+ <body>
+  <div class="container">
+	<div class="logo">
+		<a href="https://web.archive.org/web/20241205102327/https://coopertino.ru/"><img src="https://web.archive.org/web/20241205102327im_/https://coopertino.ru/coopertino/img/logo.svg"></a>
+	</div>
+	<div>
+		<div class="img"><img src="https://web.archive.org/web/20241205102327im_/https://coopertino.ru/images/new/server-suspended-page.png" alt="server hosting vds dedicated"></div>
+		<h1>403</h1>
+		<h2>Ваш сайт заблокирован панелью управления хостингом</h2>
+		<p>Обычно это происходит если хостинг не продлен или закончился баланс. Пожалуйста, войдите в личный кабинет, чтобы продлить ваш аккаунт.<br>Активация услуги после продления происходит моментально.</p>
+	</div>
+	<div>
+		<a href="https://web.archive.org/web/20241205102327/https://my.coopertino.ru/" class="button">Перейти в личный кабинет</a>
+	</div>
+  </div>
+  
+  <footer class="footer">
+	<div class="container">
+		<nav class="page-footer__col page-footer__navigation">
+			<ul><li><a href="https://web.archive.org/web/20241205102327/https://coopertino.ru/hosting-sajtov/">Хостинг сайтов</a></li><li><a href="https://web.archive.org/web/20241205102327/https://coopertino.ru/wordpress-hosting/">Wordpress хостинг</a></li><li><a href="https://web.archive.org/web/20241205102327/https://coopertino.ru/joomla-hosting/">Joomla хостинг</a></li><li><a href="https://web.archive.org/web/20241205102327/https://coopertino.ru/hosting-1c-bitrix/">1С-Битрикс хостинг</a></li><li><a href="https://web.archive.org/web/20241205102327/https://coopertino.ru/hosting-umi-cms/">UMI.CMS хостинг</a></li><li><a href="https://web.archive.org/web/20241205102327/https://coopertino.ru/hosting-dle/">DLE хостинг</a></li><li><a href="https://web.archive.org/web/20241205102327/https://coopertino.ru/hosting-modx/">MODx хостинг</a></li><li><a href="https://web.archive.org/web/20241205102327/https://coopertino.ru/cms-hosting/">Хостинг CMS</a></li><li><a href="https://web.archive.org/web/20241205102327/https://coopertino.ru/bezlimitnyj-hosting/">Безлимитный хостинг</a></li><li><a href="https://web.archive.org/web/20241205102327/https://coopertino.ru/vip-hosting/">VIP хостинг</a></li><li><a href="https://web.archive.org/web/20241205102327/https://coopertino.ru/besplatnyj-hosting/">Бесплатный хостинг</a></li><li><a href="https://web.archive.org/web/20241205102327/https://coopertino.ru/about/">О компании</a></li><li><a href="https://web.archive.org/web/20241205102327/https://coopertino.ru/arenda-servera-dedicated/">Выделенные (dedicated)</a></li><li><a href="https://web.archive.org/web/20241205102327/https://coopertino.ru/arenda-servera-bitrix24/">Сервер Битрикс24</a></li><li><a href="https://web.archive.org/web/20241205102327/https://coopertino.ru/prodlenie-domenov/">Продление доменов RU</a></li><li><a href="https://web.archive.org/web/20241205102327/https://coopertino.ru/vds-vps-kvm-nvme-server/">VDS на NVMe (KVM)</a></li><li><a href="https://web.archive.org/web/20241205102327/https://coopertino.ru/hosting-dlya-foruma/">Хостинг для форума</a></li><li><a href="https://web.archive.org/web/20241205102327/https://coopertino.ru/hosting-dlya-amiro-cms/">Хостинг Amiro.CMS</a></li><li><a href="https://web.archive.org/web/20241205102327/https://coopertino.ru/hosting-typo3/">Хостинг TYPO3</a></li><li><a href="https://web.archive.org/web/20241205102327/https://coopertino.ru/hosting-dlya-opencart/">Хостинг для OpenCart</a></li><li><a href="https://web.archive.org/web/20241205102327/https://coopertino.ru/info/chto-takoe-hosting-i-domen-prostimi-slovami/">Что такое хостинг?</a></li><li><a href="https://web.archive.org/web/20241205102327/https://coopertino.ru/info/chto-takoe-hosting-i-domen-prostimi-slovami/">Что такое домен?</a></li><li><a href="https://web.archive.org/web/20241205102327/https://coopertino.ru/administrirovanie-servera/">Администрирование сервера</a></li><li><a href="https://web.archive.org/web/20241205102327/https://coopertino.ru/domain-registration/">Регистрация доменов</a></li><!--<li><a href="https://coopertino.ru" rel="nofollow">Партнерская программа</a></li>--></ul>
+		</nav>
+	</div>
+	<div class="copyright">
+		<div class="container">
+			
+		</div>
+	</div>
+  </footer>
+  
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 10:23:27 Dec 05, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:38:32 Jul 26, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  capture_cache.get: 27.008
+  load_resource: 202.362
+  PetaboxLoader3.resolve: 92.864
+  PetaboxLoader3.datanode: 67.155
+-->
